@@ -1,6 +1,6 @@
-### Hi I'm Diego Rojas. 😄 👋
+## Hi I'm Diego Rojas. 😄 👋
 
-# This repository is intended for students to conduct applied research in the fields of economics and public policy.
+#### This repository is intended for students to conduct applied research in the fields of economics and public policy.
 <!--
 
 
