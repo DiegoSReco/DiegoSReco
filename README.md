@@ -1,7 +1,7 @@
 ## Hi I'm Diego Rojas. 😄 👋
 
 #### This repository is intended for students to conduct applied research in the fields of economics and public policy.
-<!--
+
 
 
 - 🔭 I’m currently working on ...
@@ -12,4 +12,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
