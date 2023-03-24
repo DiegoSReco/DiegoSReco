@@ -1,4 +1,5 @@
-## Hi I'm Diego Rojas. 😄 👋
+## Hi I'm Diego Rojas. 😄 👋 
 
-- 🔭I’m looking to collaborate and share ideas on applied research in economics and data science.
+- 🔭I’m looking to collaborate and share ideas on applied research in econometrics, data science and data engineering.
+🐼🐍
 
